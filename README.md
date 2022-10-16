@@ -1,7 +1,7 @@
 #Sudoku Solver in AR with CNN
 
 ****************************************************************************************************************
-                                     AE Neural Net with Reactives agents (NetLogo)      
+                                 Sudoku Solver in Augmented Reality with CNN      
 ****************************************************************************************************************
 
 AUTHORS :
@@ -16,7 +16,8 @@ OpenCV is used for the grid preprocessing, then each square is labeled with eith
 The database used contains pieces of a grid for each squares and adds a written number, a non-written number or nothing.
 The database is not provided within this git repo, however the code to create it is as well as some trained models.
 The model integretion is not done here (should be in main.cpp) since I couldn't retrive the last version of this code (this is a 4yo side project).
- if you need more info feel free to contact me.
+Though this should be an easy thing to do since everything else is present and functional.
+ If you need more info feel free to contact me.
  
 
 *********************
